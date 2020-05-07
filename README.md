@@ -13,6 +13,7 @@ Contexted: Write, connect and visualize your notes
 
 - [Description](#description)
 - [Features](#features)
+- [Usage](#usage)
 - [Donations](#donations)
 
 
@@ -49,8 +50,22 @@ Contexted supports end-to-end encryption on all your notes. This prevents any th
 Usage
 ----
 
-### Web app
-### Desktop apps
+- Highlight word(s) with your ⌨️ or 🖱️
+- Create new note or link to existing one
+- Use the Contexted Bar to enter the title of a new note, or search for an existing one
+
+Done!
+
+## Keyboard shortcuts
+Contexted contains a variety of shortcut to accelerate your workflow.
+
+- `CTRL` + `b` — Make selected text bold
+- `CTRL` + `i` — Make selected text italic
+- `CTRL` + `u` — Make selected text underlined
+- `*` + word(s) + `ENTER` — Make unordered list
+-  ``code`` — Format text as code
+- `CTRL` + `ENTER` — Set focus to Contexted Bar
+  
 
 <a name="donations"></a>
 Donations
