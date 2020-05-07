@@ -7,7 +7,7 @@ Contexted
 
 [![Version](https://img.shields.io/github/release/contextedio/contexted.svg)](https://github.com/contextedio/contexted/releases)  
 
-[Contexted][contexted] is a relational note-taking app enabling you to write and link notes into a web of personal knowledge.
+Contexted is **a relational note-taking app** enabling you to write and link notes into a web of personal knowledge.
 
 <!-- MarkdownTOC autolink="true" bracket="round" depth="3" autoanchor="true" -->
 
