@@ -13,6 +13,8 @@ Contexted: Write, connect and visualize your notes
 
 - [Description](#description)
 - [Features](#features)
+- [Donations](#donations)
+
 
 <!-- /MarkdownTOC -->
 
@@ -49,3 +51,10 @@ Usage
 
 ## Web app
 ## Desktop apps
+
+<a name="donations"></a>
+Donations
+----
+
+Would you like to support the development of Contexted?
+
