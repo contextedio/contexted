@@ -1,7 +1,7 @@
-# Write, connect and visualize your notes 
+# Contexted
+## Write, connect and visualize your notes 
 Contexted is a relational note-taking app enabling you to write and link notes into a web of personal knowledge.
 
-## Contexted
 Contexted makes writing notes and linking them together a bliss. Packed with features to write, connect and navigate your notes, Contexted enables you to transform your notes into personal knowledge . Each new note is part of your web of knowledge
 
 
