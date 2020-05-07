@@ -70,5 +70,5 @@ Contexted contains a variety of shortcut to accelerate your workflow.
 Donations
 ----
 
-Would you like to support the development of Contexted?
+Would you like to support the development of Contexted? Support our development efforts via [Patreon](https://www.patreon.com/contexted)
 
