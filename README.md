@@ -36,9 +36,12 @@ Most curent note-taking app treat each note in isolation. Related notes can not 
 Features
 --------
 
-- **Frictionless linking of notes:** linking your notes together is as easy as highlighting words, with your mouse or keyboard. You can instantly link to a newly created note, or use the search box to link to an existing note. Contexted is packed with shortkeys , making it blazingly fast to write and connect notes. .
-- **Mindmap view:** Contexted has awesome mindmap visualizations to get a birds eye view of your web of notes. Seperate clusters of connected notes are detected and seperated automatically , so you always have a full overview of all your notes. 
-- **Full encryption on all your notes**: Contexted supports end-to-end encryption on all your notes. This prevents any third parties from accessing your data, even us. Your notes are encrypted using symmetric AES-256 encryption. The encryption key is securely generated when you enable encryption, and is stored encrypted on our server with a key derived from your passphrase. This allows you to use Contexted seamlessly in a robust, secure and safe manner, on any device. 
+- **Frictionless linking of notes** 
+    - Linking your notes together is as easy as highlighting words, with your mouse or keyboard. You can instantly link to a newly created note, or use the search box to link to an existing note. Contexted is packed with shortkeys , making it blazingly fast to write and connect notes. .
+- **Mindmap view** 
+    - Contexted has awesome mindmap visualizations to get a birds eye view of your web of notes. Seperate clusters of connected notes are detected and seperated automatically , so you always have a full overview of all your notes. 
+- **Full encryption on all your notes** 
+    - Contexted supports end-to-end encryption on all your notes. This prevents any third parties from accessing your data, even us. Your notes are encrypted using symmetric AES-256 encryption. The encryption key is securely generated when you enable encryption, and is stored encrypted on our server with a key derived from your passphrase. This allows you to use Contexted seamlessly in a robust, secure and safe manner, on any device. 
 
 <a name="usage"></a>
 Usage
