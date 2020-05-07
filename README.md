@@ -1,4 +1,10 @@
 # Contexted
+[![Version](https://img.shields.io/github/release/soffes/HotKey.svg)](https://github.com/soffes/HotKey/releases)
+[![Build Status](https://github.com/soffes/HotKey/workflows/Tests/badge.svg)](https://github.com/soffes/HotKey/actions)
+![Swift Version](https://img.shields.io/badge/swift-5.0.1-orange.svg)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![CocoaPods compatible](https://img.shields.io/cocoapods/v/HotKey.svg)](https://cocoapods.org/pods/HotKey)
+
 Contexted is a relational note-taking app enabling you to write and link notes into a web of personal knowledge.
 
 ## Write, connect and visualize your notes 
