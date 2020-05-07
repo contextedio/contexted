@@ -49,8 +49,8 @@ Contexted supports end-to-end encryption on all your notes. This prevents any th
 Usage
 ----
 
-## Web app
-## Desktop apps
+### Web app
+### Desktop apps
 
 <a name="donations"></a>
 Donations
