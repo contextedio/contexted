@@ -17,7 +17,7 @@ Contexted: Write, connect and visualize your notes
 <!-- /MarkdownTOC -->
 
 <a name="description"></a>
-Description
+Demo
 --------
 
 <div align="center">
@@ -42,3 +42,10 @@ Contexted has awesome mindmap visualizations to get a birds eye view of your web
 ## Full encryption on all your notes
 
 Contexted supports end-to-end encryption on all your notes. This prevents any third parties from accessing your data, even us. Your notes are encrypted using symmetric AES-256 encryption. The encryption key is securely generated when you enable encryption, and is stored encrypted on our server with a key derived from your passphrase. This allows you to use Contexted seamlessly in a robust, secure and safe manner, on any device. 
+
+<a name="usage"></a>
+Usage
+----
+
+## Web app
+## Desktop apps
