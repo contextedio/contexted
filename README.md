@@ -1,14 +1,34 @@
-# Contexted
-[![Version](https://img.shields.io/github/release/soffes/HotKey.svg)](https://github.com/contextedio/contexted/releases)  
+<div align="center">
+    <img src="#" width="200" height="200">
+</div>
 
-Contexted is a relational note-taking app enabling you to write and link notes into a web of personal knowledge.
+Contexted
+=======
+
+[![Version](https://img.shields.io/github/release/contextedio/contexted.svg)](https://github.com/contextedio/contexted/releases)  
+
+[Contexted][contexted] is a relational note-taking app enabling you to write and link notes into a web of personal knowledge.
+
+<!-- MarkdownTOC autolink="true" bracket="round" depth="3" autoanchor="true" -->
+
+- [Description](#description)
+- [Features](#features)
+
+<!-- /MarkdownTOC -->
+
+<a name="description"></a>
+Description
+--------
+
 
 ## Write, connect and visualize your notes 
 Contexted makes writing notes and linking them together a bliss. Packed with features to write, connect and navigate your notes, Contexted enables you to transform your notes into personal knowledge . Each new note is part of your web of knowledge
 
 Most curent note-taking app treat each note in isolation. Related notes can not be linked, making it hard to get an overview of how your notes are related. Each note feels as a start from scratch, isolated from all your previous work. 
 
-# Features 
+<a name="features"></a>
+Features
+--------
 
 ## Linking notes together has never been easier
 Linking your notes together is as easy as highlighting words, with your mouse or keyboard. You can instantly link to a newly created note, or use the search box to link to an existing note. Contexted is packed with shortkeys , making it blazingly fast to write and connect notes. .
