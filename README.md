@@ -21,7 +21,7 @@ Description
 --------
 
 <div align="center">
-    <img src="https://contexted.io/_nuxt/img/723a13e.gif" width="200" height="200">
+    <img src="https://contexted.io/_nuxt/img/723a13e.gif" width="688" height="400">
 </div>
 
 ## Write, connect and visualize your notes 
