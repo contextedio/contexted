@@ -2,12 +2,12 @@
     <img src="#" width="200" height="200">
 </div>
 
-Contexted
+Contexted: Write, connect and visualize your notes 
 =======
 
 [![Version](https://img.shields.io/github/release/contextedio/contexted.svg)](https://github.com/contextedio/contexted/releases)  
 
-Contexted is **a relational note-taking app** enabling you to write and link notes into a web of personal knowledge.
+[Contexted](https://contexted.io) is **a relational note-taking app** enabling you to write and link notes into a web of personal knowledge.
 
 <!-- MarkdownTOC autolink="true" bracket="round" depth="3" autoanchor="true" -->
 
