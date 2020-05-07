@@ -6,8 +6,6 @@ Contexted makes writing notes and linking them together a bliss. Packed with fea
 
 Most curent note-taking app treat each note in isolation. Related notes can not be linked, making it hard to get an overview of how your notes are related. Each note feels as a start from scratch, isolated from all your previous work. 
 
---- 
-
 # Features 
 
 ## Linking notes together has never been easier
