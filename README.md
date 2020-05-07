@@ -11,7 +11,7 @@ Contexted: Write, connect and visualize your notes
 
 <!-- MarkdownTOC autolink="true" bracket="round" depth="3" autoanchor="true" -->
 
-- [demo](#demo)
+- [Demo](#demo)
 - [Features](#features)
 - [Usage](#usage)
     - [Keyboard shortcuts](#shortcuts)
