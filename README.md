@@ -11,15 +11,16 @@ Contexted: Write, connect and visualize your notes
 
 <!-- MarkdownTOC autolink="true" bracket="round" depth="3" autoanchor="true" -->
 
-- [Description](#description)
+- [demo](#demo)
 - [Features](#features)
 - [Usage](#usage)
+    - [Keyboard shortcuts](#shortcuts)
 - [Donations](#donations)
 
 
 <!-- /MarkdownTOC -->
 
-<a name="description"></a>
+<a name="demo"></a>
 Demo
 --------
 
@@ -53,6 +54,7 @@ Usage
 
 Done!
 
+<a name="shortcuts"></a>
 ## Keyboard shortcuts
 Contexted contains a variety of shortcut to accelerate your workflow.
 
