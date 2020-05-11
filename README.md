@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
     <img src="#" width="200" height="200">
-</div>
+</div> -->
 
-Contexted: Write, connect and visualize your notes 
+Contexted: the personal note-taking app
 =======
 
 [![Version](https://img.shields.io/github/release/contextedio/contexted.svg)](https://github.com/contextedio/contexted/releases)  
